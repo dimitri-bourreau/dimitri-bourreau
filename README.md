@@ -1,9 +1,3 @@
-<h1 align="left">Simplicity in execution, excellence in outcome</h1>
-
-###
-
-<p align="left">Hello! My name is Dimitri. <br><br>I’m a freelance React frontend developer since 2019. I care deeply about designing with simplicity to strive for excellence.</p>
-
 ###
 
 <h2 align="left">About me</h2>
