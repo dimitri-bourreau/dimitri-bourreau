@@ -1,16 +1,10 @@
-###
+<p align="left">Hello! My name is Dimitri. <br><br>I’m a freelance React frontend developer since 2019. I care deeply about designing with simplicity to strive for excellence.</p>
 
 <h2 align="left">About me</h2>
 
-###
-
 <p align="left">I’m convinced that great software is built by humble, united developers rather than by extraordinary talents or degrees.<br><br>I’m at my best when I’m coding and collaborating with my peers.<br><br>And on a more personal note: I’m learning Japanese and sign language, I play some music — including guitar — and animal welfare matters deeply to me.</p>
 
-###
-
 <h2 align="left">I code with</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
