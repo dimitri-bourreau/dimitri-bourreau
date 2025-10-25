@@ -1,12 +1,18 @@
-<p align="left">Hello! My name is Dimitri. <br><br>I’m a freelance React frontend developer since 2019. I care deeply about designing with simplicity to strive for excellence.</p>
+Hello! My name is Dimitri.
 
-<h2 align="left">About me</h2>
+I’m a freelance React frontend developer since 2019. I care deeply about designing with simplicity to strive for excellence.
 
-<p align="left">I’m convinced that great software is built by humble, united developers rather than by extraordinary talents or degrees.<br><br>I’m at my best when I’m coding and collaborating with my peers.<br><br>And on a more personal note: I’m learning Japanese and sign language, I play some music — including guitar — and animal welfare matters deeply to me.</p>
+## About me
 
-<h2 align="left">I code with</h2>
+I’m convinced that great software is built by humble, united developers rather than by extraordinary talents or degrees.
 
-<div align="left">
+I’m at my best when I’m coding and collaborating with my peers.
+
+And on a more personal note: I’m learning Japanese and sign language, I play some music — including guitar — and animal welfare matters deeply to me.
+
+## I code with
+
+<div style="display:flex;gap:10px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
