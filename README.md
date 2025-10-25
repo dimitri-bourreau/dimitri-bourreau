@@ -12,7 +12,7 @@ And on a more personal note: I’m learning Japanese and sign language, I play s
 
 ## I code with
 
-<div style="display:flex;gap:10px">
+<div style="display:flex;gap:10%">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="40" alt="nextjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40" alt="typescript logo"  />
