@@ -1,14 +1,14 @@
-Hello! My name is Dimitri.
+# Hello! My name is Dimitri.
 
-I’m a freelance React frontend developer since 2019. I care deeply about designing with simplicity to strive for excellence.
+I’m a freelance React frontend developer since 2019, and I do my best to follow these words from Kent Beck: _"I'm not a great programmer; I'm just a good programmer with great habits."_.
 
 ## About me
 
-I’m convinced that great software is built by humble, united developers rather than by extraordinary talents or degrees.
+I live in France, in a city surrounded by mountains: Grenoble. 🏔️
 
-I’m at my best when I’m coding and collaborating with my peers.
+I adore the exercice of making well-crafted software and share about it.
 
-And on a more personal note: I’m learning Japanese and sign language, I play some music — including guitar — and animal welfare matters deeply to me.
+And on a more personal note: I’m learning Japanese and sign language, I love music, animal welfare matters deeply to me and my last name translates with executioner. 🙃
 
 ## I code with
 
