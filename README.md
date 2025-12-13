@@ -1,6 +1,8 @@
 # Hello! My name is Dimitri
 
-I’m a freelance React frontend developer since 2019, and I do my best to follow these words from Kent Beck: _"I'm not a great programmer; I'm just a good programmer with great habits."_.
+I’m a programmer, mostly frontend, since 2019.
+
+I do my best to follow these words from Kent Beck: _"I'm not a great programmer; I'm just a good programmer with great habits."_.
 
 ## About me
 
