@@ -1,10 +1,6 @@
 # Hello! My name is Dimitri
 
-I’m a programmer, mostly frontend, since 2019.
-
-I do my best to follow these words from Kent Beck: _"I'm not a great programmer; I'm just a good programmer with great habits."_.
-
-## About me
+I’m a fullstack dev since 2019.
 
 I live in France, in a city surrounded by mountains: Grenoble. 🏔️
 
