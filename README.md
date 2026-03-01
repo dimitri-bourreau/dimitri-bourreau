@@ -1,6 +1,6 @@
 # Hello! My name is Dimitri
 
-I’m a frontend dev since 2019.
+I’m a web dev since 2019.
 
 I live in France, in a city surrounded by mountains: Grenoble. 🏔️
 
